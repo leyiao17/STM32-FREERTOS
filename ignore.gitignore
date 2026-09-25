@@ -1,0 +1,24 @@
+# Build directories
+Debug/
+Release/
+build/
+
+# Compiled objects
+*.o
+*.obj
+*.d
+
+# Firmware build output
+*.elf
+*.bin
+*.hex
+*.map
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+learn_contents/
